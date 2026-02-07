@@ -158,7 +158,10 @@
   .product-price {
     padding: 4px 8px;
     font-size: 0.9rem;
-    transform: translateY(70px);
+    transform: none;
+    align-self: start;
+    justify-self: end;
+    white-space: nowrap;
   }
 
   .product-action {
@@ -176,5 +179,15 @@
 
   .product-action.ghost {
     padding: 8px 10px;
+  }
+}
+
+@media (max-width: 420px) {
+  .product-header {
+    grid-template-columns: 1fr;
+  }
+
+  .product-price {
+    justify-self: start;
   }
 }
