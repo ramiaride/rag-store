@@ -1,0 +1,222 @@
+[
+  {
+    "id": "Ak1",
+    "categoryId": "accessories",
+    "name": "Cute halloween keychain",
+    "price": "€4",
+    "code": "Ak1",
+    "imagePath": "Accessories/Ak1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak2",
+    "categoryId": "accessories",
+    "name": "Wolf keychain",
+    "price": "€4.5",
+    "code": "Ak2",
+    "imagePath": "Accessories/Ak2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak3",
+    "categoryId": "accessories",
+    "name": "Bear keychain",
+    "price": "€4",
+    "code": "Ak3",
+    "imagePath": "Accessories/Ak3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak4",
+    "categoryId": "accessories",
+    "name": "Turtle keychain",
+    "price": "€4",
+    "code": "Ak4",
+    "imagePath": "Accessories/Ak4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak5",
+    "categoryId": "accessories",
+    "name": "Dragonfly keychain",
+    "price": "€4",
+    "code": "Ak5",
+    "imagePath": "Accessories/Ak5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak6",
+    "categoryId": "accessories",
+    "name": "Highland cow keychain",
+    "price": "€4",
+    "code": "Ak6",
+    "imagePath": "Accessories/Ak6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak7",
+    "categoryId": "accessories",
+    "name": "We fight together keychain",
+    "price": "€4",
+    "code": "Ak7",
+    "imagePath": "Accessories/Ak7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ak8",
+    "categoryId": "accessories",
+    "name": "Book lover keychain",
+    "price": "€4",
+    "code": "Ak8",
+    "imagePath": "Accessories/Ak8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps1",
+    "categoryId": "accessories",
+    "name": "Ballerina phone stand",
+    "price": "€6",
+    "code": "Aps1",
+    "imagePath": "Accessories/Aps1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps2",
+    "categoryId": "accessories",
+    "name": "Dance phone stand",
+    "price": "€6",
+    "code": "Aps2",
+    "imagePath": "Accessories/Aps2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps3",
+    "categoryId": "accessories",
+    "name": "Fighter phone stand",
+    "price": "€6",
+    "code": "Aps3",
+    "imagePath": "Accessories/Aps3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps4",
+    "categoryId": "accessories",
+    "name": "Cute animals phone stand",
+    "price": "€6",
+    "code": "Aps4",
+    "imagePath": "Accessories/Aps4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps5",
+    "categoryId": "accessories",
+    "name": "Cute horse phone stand",
+    "price": "€6",
+    "code": "Aps5",
+    "imagePath": "Accessories/Aps5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps6",
+    "categoryId": "accessories",
+    "name": "Cute beaver phone stand",
+    "price": "€6",
+    "code": "Aps6",
+    "imagePath": "Accessories/Aps6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps7",
+    "categoryId": "accessories",
+    "name": "Flowers phone stand",
+    "price": "€6",
+    "code": "Aps7",
+    "imagePath": "Accessories/Aps7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Aps8",
+    "categoryId": "accessories",
+    "name": "Halloween phone stand",
+    "price": "€6",
+    "code": "Aps8",
+    "imagePath": "Accessories/Aps8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Agh1",
+    "categoryId": "accessories",
+    "name": "Cute dog glasses holder",
+    "price": "€7",
+    "code": "Agh1",
+    "imagePath": "Accessories/Agh1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Agh2",
+    "categoryId": "accessories",
+    "name": "Cute penguin glasses holder",
+    "price": "€7",
+    "code": "Agh2",
+    "imagePath": "Accessories/Agh2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Agh3",
+    "categoryId": "accessories",
+    "name": "Cute bear glasses holder",
+    "price": "€7",
+    "code": "Agh3",
+    "imagePath": "Accessories/Agh3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Agh4",
+    "categoryId": "accessories",
+    "name": "Cute mouse glasses holder",
+    "price": "€7",
+    "code": "Agh4",
+    "imagePath": "Accessories/Agh4.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "kit-01",
+    "categoryId": "kitchen",
+    "name": "Engraved Cutting Board",
+    "price": "$40",
+    "code": "Vk1",
+    "woodType": "Maple",
+    "size": "12 in",
+    "finish": "Oil",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "kit-02",
+    "categoryId": "kitchen",
+    "name": "Recipe Tablet Stand",
+    "price": "$34",
+    "code": "Vk1",
+    "woodType": "Oak",
+    "size": "10 in",
+    "finish": "Matte",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

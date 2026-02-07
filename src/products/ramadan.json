@@ -1,0 +1,200 @@
+[
+  {
+    "id": "Rd1",
+    "categoryId": "ramadan",
+    "name": "Ramadan mubarak sign",
+    "price": "€5",
+    "code": "Rd1",
+    "imagePath": "ramadan/Rd1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd2",
+    "categoryId": "ramadan",
+    "name": "Ramadan mubarak sign",
+    "price": "€5",
+    "code": "Rd2",
+    "imagePath": "ramadan/Rd2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd3",
+    "categoryId": "ramadan",
+    "name": "Ramadan mubarak sign",
+    "price": "€5",
+    "code": "Rd3",
+    "imagePath": "ramadan/Rd3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd4",
+    "categoryId": "ramadan",
+    "name": "Ramadan mubarak sign",
+    "price": "€5",
+    "code": "Rd4",
+    "imagePath": "ramadan/Rd4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd5",
+    "categoryId": "ramadan",
+    "name": "Ramadan Incense holder",
+    "price": "€10",
+    "code": "Rd5",
+    "imagePath": "ramadan/Rd5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd6",
+    "categoryId": "ramadan",
+    "name": "Ramadan table sign",
+    "price": "€6",
+    "code": "Rd6",
+    "imagePath": "ramadan/Rd6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd7",
+    "categoryId": "ramadan",
+    "name": "Ramadan countdown calendar",
+    "price": "€10/12",
+    "code": "Rd7",
+    "imagePath": "ramadan/Rd7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd8",
+    "categoryId": "ramadan",
+    "name": "Ramadan 2pz wall decor",
+    "price": "€9",
+    "code": "Rd8",
+    "imagePath": "ramadan/Rd8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd9",
+    "categoryId": "ramadan",
+    "name": "Ramadan table decor",
+    "price": "€5/6",
+    "code": "Rd9",
+    "imagePath": "ramadan/Rd9.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rd10",
+    "categoryId": "ramadan",
+    "name": "Ramadan table decor",
+    "price": "€5/6",
+    "code": "Rd10",
+    "imagePath": "ramadan/Rd10.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk1",
+    "categoryId": "ramadan",
+    "name": "Ramadan treat box",
+    "price": "€12",
+    "code": "Rk1",
+    "imagePath": "ramadan/Rk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk2",
+    "categoryId": "ramadan",
+    "name": "Ramadan treat box",
+    "price": "€12",
+    "code": "Rk2",
+    "imagePath": "ramadan/Rk2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk3",
+    "categoryId": "ramadan",
+    "name": "Ramadan mini box",
+    "price": "€8",
+    "code": "Rk3",
+    "imagePath": "ramadan/Rk3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk4",
+    "categoryId": "ramadan",
+    "name": "Ramadan tray",
+    "price": "€15",
+    "code": "Rk4",
+    "imagePath": "ramadan/Rk4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk5",
+    "categoryId": "ramadan",
+    "name": "Ramadan small tray",
+    "price": "€10",
+    "code": "Rk5",
+    "imagePath": "ramadan/Rk5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk6",
+    "categoryId": "ramadan",
+    "name": "Ramadan layered tray",
+    "price": "€10",
+    "code": "Rk6",
+    "imagePath": "ramadan/Rk6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk7",
+    "categoryId": "ramadan",
+    "name": "Ramadan treat stand",
+    "price": "€15",
+    "code": "Rk7",
+    "imagePath": "ramadan/Rk7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Rk8",
+    "categoryId": "ramadan",
+    "name": "Ramadan gift box",
+    "price": "€8/12",
+    "code": "Rk8",
+    "imagePath": "ramadan/Rk8.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

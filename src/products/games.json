@@ -1,0 +1,30 @@
+[
+  {
+    "id": "games-01",
+    "categoryId": "games",
+    "name": "Travel Tic-Tac-Toe",
+    "price": "$18",
+    "code": "Vk1",
+    "woodType": "Birch",
+    "size": "4.5 in",
+    "finish": "Matte",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "games-02",
+    "categoryId": "games",
+    "name": "Family Memory Match",
+    "price": "$36",
+    "code": "Vk1",
+    "woodType": "Maple",
+    "size": "10 in",
+    "finish": "Satin",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

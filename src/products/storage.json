@@ -1,0 +1,16 @@
+[
+  {
+    "id": "stor-01",
+    "categoryId": "storage",
+    "name": "Stackable Cube Set",
+    "price": "$54",
+    "code": "Vk1",
+    "woodType": "Pine",
+    "size": "13 in",
+    "finish": "Matte",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

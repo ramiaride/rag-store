@@ -1,0 +1,244 @@
+[
+  {
+    "id": "Vk1",
+    "categoryId": "valentine",
+    "name": "Valentine Keychain",
+    "price": "€4",
+    "code": "Vk1",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vk2",
+    "categoryId": "valentine",
+    "name": "Holding hands keychain",
+    "price": "€4",
+    "code": "Vk2",
+    "imagePath": "Vk2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vk3",
+    "categoryId": "valentine",
+    "name": "Cute couple keychain",
+    "price": "€4",
+    "code": "Vk3",
+    "imagePath": "Vk3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vj1",
+    "categoryId": "valentine",
+    "name": "Double heart earrings",
+    "price": "€4",
+    "code": "Vj1",
+    "imagePath": "Vj1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vj2",
+    "categoryId": "valentine",
+    "name": "Rose earrings",
+    "price": "€5",
+    "code": "Vj2",
+    "imagePath": "Vj2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vj3",
+    "categoryId": "valentine",
+    "name": "Engraved love earrings",
+    "price": "€5",
+    "code": "Vj3",
+    "imagePath": "Vj3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vl1",
+    "categoryId": "valentine",
+    "name": "Multi heart candle holder",
+    "price": "€4",
+    "code": "Vl1",
+    "imagePath": "Vi1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vl2",
+    "categoryId": "valentine",
+    "name": "Valentine camping candle holder",
+    "price": "€5",
+    "code": "Vl2",
+    "imagePath": "Vi2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vl3",
+    "categoryId": "valentine",
+    "name": "Candle holder 3 designs",
+    "price": "€9",
+    "code": "Vl3",
+    "imagePath": "Vl3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vpf1",
+    "categoryId": "valentine",
+    "name": "Love photo frame",
+    "price": "€7",
+    "code": "Vpf1",
+    "imagePath": "Vpf1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vpf2",
+    "categoryId": "valentine",
+    "name": "Love tree photo frame",
+    "price": "€8",
+    "code": "Vpf2",
+    "imagePath": "Vpf2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vpf3",
+    "categoryId": "valentine",
+    "name": "Reasons for love photo frame",
+    "price": "€15",
+    "code": "Vpf3",
+    "imagePath": "Vpf3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd1",
+    "categoryId": "valentine",
+    "name": "Art deco valentine rose",
+    "price": "€7",
+    "code": "Vd1",
+    "imagePath": "Vd1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd2",
+    "categoryId": "valentine",
+    "name": "Valentine's day plaque 1",
+    "price": "€10",
+    "code": "Vd2",
+    "imagePath": "Vd2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd3",
+    "categoryId": "valentine",
+    "name": "Valentine's day plaque 2",
+    "price": "€10",
+    "code": "Vd3",
+    "imagePath": "Vd3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd4",
+    "categoryId": "valentine",
+    "name": "Valentine's day plaque 3",
+    "price": "€10",
+    "code": "Vd4",
+    "imagePath": "Vd4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd5",
+    "categoryId": "valentine",
+    "name": "Personalized love sign",
+    "price": "€10",
+    "code": "Vd5",
+    "imagePath": "Vd5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd6",
+    "categoryId": "valentine",
+    "name": "Heart love sign",
+    "price": "€10",
+    "code": "Vd6",
+    "imagePath": "Vd6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd7",
+    "categoryId": "valentine",
+    "name": "Valentine robots",
+    "price": "€5",
+    "code": "Vd7",
+    "imagePath": "Vd7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd8",
+    "categoryId": "valentine",
+    "name": "Personalized couple sign",
+    "price": "€12",
+    "code": "Vd8",
+    "imagePath": "Vd8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd9",
+    "categoryId": "valentine",
+    "name": "Valentine tree couple ",
+    "price": "€10",
+    "code": "Vd9",
+    "imagePath": "Vd9.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Va1",
+    "categoryId": "valentine",
+    "name": "Couple phone stand",
+    "price": "€5",
+    "code": "Va1",
+    "imagePath": "Va1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

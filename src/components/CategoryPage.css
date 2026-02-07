@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Space+Grotesk:wght@400;600;700&display=swap");
+
+.category-page {
+  min-height: calc(100vh - 80px);
+  padding: 32px 24px 60px;
+  background: radial-gradient(
+      circle at top left,
+      rgba(255, 231, 214, 0.7),
+      rgba(255, 231, 214, 0)
+    ),
+    radial-gradient(
+      circle at 80% 10%,
+      rgba(203, 237, 255, 0.8),
+      rgba(203, 237, 255, 0)
+    );
+}
+
+.category-hero {
+  max-width: 1200px;
+  margin: 0 auto 28px;
+  display: grid;
+  gap: 16px;
+  align-items: center;
+}
+
+.back-button {
+  justify-self: start;
+  padding: 10px 18px;
+  border-radius: 999px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: rgba(255, 255, 255, 0.7);
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+  color: #0f172a;
+  cursor: pointer;
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.back-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 18px 30px rgba(15, 23, 42, 0.12);
+}
+
+.category-title-wrap {
+  text-align: center;
+}
+
+.category-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.7rem;
+  color: rgba(15, 23, 42, 0.6);
+  margin: 0 0 6px;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.category-title {
+  margin: 0;
+  font-family: "Fraunces", serif;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  color: #0f172a;
+}
+
+.category-subtitle {
+  margin: 8px 0 0;
+  font-size: 1rem;
+  color: rgba(15, 23, 42, 0.7);
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.category-grid {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px;
+}
+
+@media (max-width: 720px) {
+  .category-page {
+    padding: 24px 16px 50px;
+  }
+
+  .category-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .back-button {
+    width: 100%;
+    justify-self: stretch;
+    text-align: center;
+  }
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "Kp1",
+    "categoryId": "kids",
+    "name": "Animal Puzzle",
+    "price": "€11.99",
+    "code": "Kp1",
+    "imagePath": "Kids/Kp1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp2",
+    "categoryId": "kids",
+    "name": "Birds Puzzle",
+    "price": "€11.99",
+    "code": "Kp2",
+    "imagePath": "Kids/Kp2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp3",
+    "categoryId": "kids",
+    "name": "Girls Puzzle",
+    "price": "€11.99",
+    "code": "Kp3",
+    "imagePath": "Kids/Kp3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp4",
+    "categoryId": "kids",
+    "name": "Boys Puzzle",
+    "price": "€11.99",
+    "code": "Kp4",
+    "imagePath": "Kids/Kp4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp6",
+    "categoryId": "kids",
+    "name": "Sea life Puzzle",
+    "price": "€11.99",
+    "code": "Kp6",
+    "imagePath": "Kids/Kp6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp7",
+    "categoryId": "kids",
+    "name": "Monsters Puzzle",
+    "price": "€11.99",
+    "code": "Kp7",
+    "imagePath": "Kids/Kp7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp8",
+    "categoryId": "kids",
+    "name": "Farm animals Puzzle",
+    "price": "€11.99",
+    "code": "Kp8",
+    "imagePath": "Kids/Kp8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp9",
+    "categoryId": "kids",
+    "name": "Construction Puzzle",
+    "price": "€11.99",
+    "code": "Kp9",
+    "imagePath": "Kids/Kp9.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kp10",
+    "categoryId": "kids",
+    "name": "Ocean animals Puzzle",
+    "price": "€11.99",
+    "code": "Kp10",
+    "imagePath": "Kids/Kp10.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kd1",
+    "categoryId": "kids",
+    "name": "Elephant wall decoration",
+    "price": "€11.99",
+    "code": "Kd1",
+    "imagePath": "Kids/Kd1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kd2",
+    "categoryId": "kids",
+    "name": "Personalized kids sign ",
+    "price": "€11.99",
+    "code": "Kd2",
+    "imagePath": "Kids/Kd2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kd3",
+    "categoryId": "kids",
+    "name": "Personalized drawing frames ",
+    "price": "€11.99",
+    "code": "Kd3",
+    "imagePath": "Kids/Kd3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ka1",
+    "categoryId": "kids",
+    "name": "Kids clothes hanger ",
+    "price": "€3.99",
+    "code": "Ka1",
+    "imagePath": "Kids/Ka1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ka2",
+    "categoryId": "kids",
+    "name": "Kids hair comb  ",
+    "price": "€3.99",
+    "code": "Ka2",
+    "imagePath": "Kids/Ka2.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

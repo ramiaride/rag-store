@@ -1,0 +1,16 @@
+[
+  {
+    "id": "book-01",
+    "categoryId": "books",
+    "name": "Reading Nook Marker",
+    "price": "$16",
+    "code": "Vk1",
+    "woodType": "Birch",
+    "size": "3 in",
+    "finish": "Matte",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

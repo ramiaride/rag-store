@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fam-01",
+    "categoryId": "family",
+    "name": "Family Name Plaque",
+    "price": "$36",
+    "code": "Vk1",
+    "woodType": "Oak",
+    "size": "12 in",
+    "finish": "Satin",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

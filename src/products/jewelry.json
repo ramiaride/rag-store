@@ -1,0 +1,44 @@
+[
+  {
+    "id": "jwl-01",
+    "categoryId": "jewelry",
+    "name": "Golden Arc Necklace",
+    "price": "$52",
+    "code": "Vk1",
+    "woodType": "Walnut",
+    "size": "18 in",
+    "finish": "Lacquer",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "jwl-02",
+    "categoryId": "jewelry",
+    "name": "Starlight Earring Set",
+    "price": "$28",
+    "code": "Vk1",
+    "woodType": "Maple",
+    "size": "1.5 in",
+    "finish": "Gloss",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "jwl-03",
+    "categoryId": "jewelry",
+    "name": "Minimal Ring Trio",
+    "price": "$30",
+    "code": "Vk1",
+    "woodType": "Cherry",
+    "size": "Custom",
+    "finish": "Satin",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

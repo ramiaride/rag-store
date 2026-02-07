@@ -1,0 +1,16 @@
+[
+  {
+    "id": "shop-01",
+    "categoryId": "shops",
+    "name": "Shop Logo Sign",
+    "price": "$62",
+    "code": "Vk1",
+    "woodType": "Walnut",
+    "size": "18 in",
+    "finish": "Satin",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

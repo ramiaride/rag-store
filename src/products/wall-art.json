@@ -1,0 +1,30 @@
+[
+  {
+    "id": "wall-01",
+    "categoryId": "wall-art",
+    "name": "Mountain Skyline",
+    "price": "$58",
+    "code": "Vk1",
+    "woodType": "Oak",
+    "size": "16 in",
+    "finish": "Oil",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "wall-02",
+    "categoryId": "wall-art",
+    "name": "Botanical Layers",
+    "price": "$52",
+    "code": "Vk1",
+    "woodType": "Birch",
+    "size": "14 in",
+    "finish": "Matte",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

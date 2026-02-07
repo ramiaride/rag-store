@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fri-01",
+    "categoryId": "friends",
+    "name": "Bestie Memory Stand",
+    "price": "$24",
+    "code": "Vk1",
+    "woodType": "Beech",
+    "size": "6 in",
+    "finish": "Matte",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

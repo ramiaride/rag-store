@@ -1,0 +1,222 @@
+[
+  {
+    "id": "L1",
+    "categoryId": "lights",
+    "name": "Horse candle holder",
+    "price": "€7",
+    "code": "L1",
+    "imagePath": "lights/L1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L2",
+    "categoryId": "lights",
+    "name": "Wolf candle holder",
+    "price": "€7",
+    "code": "L2",
+    "imagePath": "lights/L2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L3",
+    "categoryId": "lights",
+    "name": "Elephant candle holder",
+    "price": "€7",
+    "code": "L3",
+    "imagePath": "lights/L3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L4",
+    "categoryId": "lights",
+    "name": "Bears candle holder",
+    "price": "€7",
+    "code": "L4",
+    "imagePath": "lights/L4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L5",
+    "categoryId": "lights",
+    "name": "Deers candle holder",
+    "price": "€7",
+    "code": "L5",
+    "imagePath": "lights/L5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L6",
+    "categoryId": "lights",
+    "name": "Castle candle holder",
+    "price": "€4",
+    "code": "L6",
+    "imagePath": "lights/L6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L7",
+    "categoryId": "lights",
+    "name": "Mandala candle holder",
+    "price": "€7",
+    "code": "L7",
+    "imagePath": "lights/L7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L8",
+    "categoryId": "lights",
+    "name": "Floral candle holder",
+    "price": "€3",
+    "code": "L8",
+    "imagePath": "lights/L8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L9",
+    "categoryId": "lights",
+    "name": "Couple camping candle holder",
+    "price": "€7",
+    "code": "L9",
+    "imagePath": "lights/L9.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L10",
+    "categoryId": "lights",
+    "name": "Love birds candle holder",
+    "price": "€4",
+    "code": "L10",
+    "imagePath": "lights/L10.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L11",
+    "categoryId": "lights",
+    "name": "Camping candle holder",
+    "price": "€8",
+    "code": "L11",
+    "imagePath": "lights/L11.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L12",
+    "categoryId": "lights",
+    "name": "Camping candle holder ",
+    "price": "€8",
+    "code": "L12",
+    "imagePath": "lights/L12.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L13",
+    "categoryId": "lights",
+    "name": "Decorative candle holder",
+    "price": "€3",
+    "code": "L13",
+    "imagePath": "lights/L13.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L14",
+    "categoryId": "lights",
+    "name": "Decorative candle holder",
+    "price": "€3",
+    "code": "L14",
+    "imagePath": "lights/L14.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L15",
+    "categoryId": "lights",
+    "name": "Modern tealight holder",
+    "price": "da€8",
+    "code": "L15",
+    "imagePath": "lights/L15.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L16",
+    "categoryId": "lights",
+    "name": "Modern tealight holder",
+    "price": "€12",
+    "code": "L16",
+    "imagePath": "lights/L16.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L17",
+    "categoryId": "lights",
+    "name": "Modern lampshade",
+    "price": "€10",
+    "code": "L17",
+    "imagePath": "lights/L17.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L18",
+    "categoryId": "lights",
+    "name": "Modern leaves lampshade",
+    "price": "€10",
+    "code": "L18",
+    "imagePath": "lights/L18.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L19",
+    "categoryId": "lights",
+    "name": "Modern flower lampshade",
+    "price": "€10",
+    "code": "L19",
+    "imagePath": "lights/L19.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "L20",
+    "categoryId": "lights",
+    "name": "Oval lampshade",
+    "price": "€12",
+    "code": "L20",
+    "imagePath": "lights/L20.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

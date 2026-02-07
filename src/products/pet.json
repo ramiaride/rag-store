@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pet-01",
+    "categoryId": "pet",
+    "name": "Custom Paw Tag",
+    "price": "$18",
+    "code": "Vk1",
+    "woodType": "Cherry",
+    "size": "2 in",
+    "finish": "Gloss",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

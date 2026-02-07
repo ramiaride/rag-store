@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cof-01",
+    "categoryId": "coffee",
+    "name": "Barista Brew Caddy",
+    "price": "$26",
+    "code": "Vk1",
+    "woodType": "Walnut",
+    "size": "6 in",
+    "finish": "Satin",
+    "imagePath": "Vk1.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]

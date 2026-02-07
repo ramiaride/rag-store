@@ -1,0 +1,134 @@
+[
+  {
+    "id": "Vd5",
+    "categoryId": "personalized",
+    "name": "Personalized love sign",
+    "price": "€10",
+    "code": "Vd5",
+    "imagePath": "Vd5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vd8",
+    "categoryId": "personalized",
+    "name": "Personalized couple sign",
+    "price": "€12",
+    "code": "Vd8",
+    "imagePath": "Vd8.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P1",
+    "categoryId": "personalized",
+    "name": "Personalized jigsaw puzzle",
+    "price": "da€10",
+    "code": "P1",
+    "imagePath": "Personalized/P1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P2",
+    "categoryId": "personalized",
+    "name": "Personalized keychain",
+    "price": "€5",
+    "code": "P2",
+    "imagePath": "Personalized/P2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P3",
+    "categoryId": "personalized",
+    "name": "Personalized photo engraving",
+    "price": "da€15",
+    "code": "P3",
+    "imagePath": "Personalized/P3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P4",
+    "categoryId": "personalized",
+    "name": "Personalized mustache comb",
+    "price": "€5",
+    "code": "P4",
+    "imagePath": "Personalized/P4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P5",
+    "categoryId": "personalized",
+    "name": "Personalized family tree decor",
+    "price": "€10",
+    "code": "P5",
+    "imagePath": "Personalized/P5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P6",
+    "categoryId": "personalized",
+    "name": "Personalized photo song frame",
+    "price": "€15",
+    "code": "P6",
+    "imagePath": "Personalized/P6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "P7",
+    "categoryId": "personalized",
+    "name": "Personalized newborn stats",
+    "price": "€15",
+    "code": "P7",
+    "imagePath": "Personalized/P7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Vpf3",
+    "categoryId": "personalized",
+    "name": "Reasons for love photo frame",
+    "price": "€15",
+    "code": "Vpf3",
+    "imagePath": "Vpf3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kd2",
+    "categoryId": "kids",
+    "name": "Personalized kids sign ",
+    "price": "€11.99",
+    "code": "Kd2",
+    "imagePath": "Kids/Kd2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Kd3",
+    "categoryId": "kids",
+    "name": "Personalized drawing frames ",
+    "price": "€11.99",
+    "code": "Kd3",
+    "imagePath": "Kids/Kd3.jpg",
+    "details": {
+      "description": ""
+    }
+  }
+]
