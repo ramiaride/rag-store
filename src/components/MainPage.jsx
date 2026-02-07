@@ -51,6 +51,25 @@ export default function MainPage() {
 
   const [activeCategory, setActiveCategory] = useState(null);
   const [activeView, setActiveView] = useState("home");
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  useEffect(() => {
+    if (!menuOpen) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = previousOverflow;
+    };
+  }, [menuOpen]);
+
+  useEffect(() => {
+    if (!menuOpen) return;
+    const onKeyDown = (event) => {
+      if (event.key === "Escape") setMenuOpen(false);
+    };
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [menuOpen]);
 
   useEffect(() => {
     const syncFromHash = () => {
@@ -58,31 +77,37 @@ export default function MainPage() {
       if (!hash) {
         setActiveCategory(null);
         setActiveView("home");
+        setMenuOpen(false);
         return;
       }
       if (hash === "about") {
         setActiveCategory(null);
         setActiveView("about");
+        setMenuOpen(false);
         return;
       }
       if (hash === "order") {
         setActiveCategory(null);
         setActiveView("order");
+        setMenuOpen(false);
         return;
       }
       if (hash === "contact") {
         setActiveCategory(null);
         setActiveView("contact");
+        setMenuOpen(false);
         return;
       }
       const category = categories.find((item) => item.id === hash);
       if (category) {
         setActiveCategory(category);
         setActiveView("category");
+        setMenuOpen(false);
         return;
       }
       setActiveCategory(null);
       setActiveView("home");
+      setMenuOpen(false);
     };
 
     syncFromHash();
@@ -93,12 +118,14 @@ export default function MainPage() {
   const handleCategorySelect = (category) => {
     setActiveCategory(category);
     setActiveView("category");
+    setMenuOpen(false);
     window.location.hash = category.id;
   };
 
   const handleBack = () => {
     setActiveCategory(null);
     setActiveView("home");
+    setMenuOpen(false);
     window.location.hash = "";
   };
 
@@ -146,8 +173,56 @@ export default function MainPage() {
               {t("language.italian")}
             </button>
           </div>
+
+          <button
+            type="button"
+            className="menu-btn"
+            aria-label="Menu"
+            aria-expanded={menuOpen}
+            onClick={() => setMenuOpen((open) => !open)}
+          >
+            <svg
+              viewBox="0 0 24 24"
+              width="16"
+              height="16"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <path
+                fill="currentColor"
+                d="M4 6.5h16a1 1 0 0 0 0-2H4a1 1 0 0 0 0 2Zm16 5.5H4a1 1 0 0 0 0 2h16a1 1 0 0 0 0-2Zm0 7H4a1 1 0 0 0 0 2h16a1 1 0 0 0 0-2Z"
+              />
+            </svg>
+          </button>
         </div>
       </header>
+
+      {menuOpen ? (
+        <div
+          className="mobile-menu-overlay"
+          role="presentation"
+          onClick={() => setMenuOpen(false)}
+        >
+          <nav
+            className="mobile-menu"
+            aria-label="Mobile menu"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <a href="#" onClick={() => setMenuOpen(false)}>
+              {t("nav.home")}
+            </a>
+            <a href="#order" onClick={() => setMenuOpen(false)}>
+              {t("nav.order")}
+            </a>
+            <a href="#about" onClick={() => setMenuOpen(false)}>
+              {t("nav.about")}
+            </a>
+            <a href="#contact" onClick={() => setMenuOpen(false)}>
+              {t("nav.contact")}
+            </a>
+          </nav>
+        </div>
+      ) : null}
 
       {activeView === "about" ? (
         <AboutPage />
@@ -208,9 +283,13 @@ export default function MainPage() {
       {activeView === "home" && !activeCategory ? (
         <footer className="bottom-bar" aria-label={t("contact.infoAria")}>
           <div className="bottom-bar-inner">
-            <span className="bottom-item">+39 331 788 9359</span>
+            <a className="bottom-link" href="tel:+393317889359">
+              +39 331 788 9359
+            </a>
             <span className="bottom-separator" aria-hidden="true" />
-            <span className="bottom-item">ragifts2026@gmail.com</span>
+            <a className="bottom-link" href="mailto:ragifts2026@gmail.com">
+              ragifts2026@gmail.com
+            </a>
             <span className="bottom-separator" aria-hidden="true" />
             <a
               className="bottom-link"
