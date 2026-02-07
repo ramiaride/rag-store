@@ -46,6 +46,7 @@
   justify-content: space-between;
   gap: 12px;
   align-items: baseline;
+  min-width: 0;
 }
 
 .product-name {
@@ -53,6 +54,7 @@
   font-family: "Fraunces", serif;
   font-size: 1.15rem;
   color: #0f172a;
+  min-width: 0;
 }
 
 .product-price {
@@ -73,6 +75,11 @@
   align-items: center;
   justify-content: space-between;
   gap: 12px;
+  flex-wrap: wrap;
+}
+
+.product-code {
+  min-width: 0;
 }
 
 .product-details {
@@ -124,4 +131,35 @@
 
 .product-action:hover {
   transform: translateY(-2px);
+}
+
+@media (max-width: 720px) {
+  .product-card {
+    border-radius: 16px;
+  }
+
+  .product-body {
+    padding: 12px 12px 14px;
+    gap: 10px;
+  }
+
+  .product-name {
+    font-size: 1rem;
+  }
+
+  .product-price {
+    padding: 4px 8px;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 520px) {
+  .product-meta {
+    font-size: 0.85rem;
+    gap: 10px;
+  }
+
+  .product-action.ghost {
+    padding: 8px 10px;
+  }
 }

@@ -21,7 +21,9 @@ export default function ProductCard({ product }) {
           <span className="product-price">{product.price}</span>
         </div>
         <p className="product-meta">
-          {t("product.code")}: {product.code}
+          <span className="product-code">
+            {t("product.code")}: {product.code}
+          </span>
           <button
             className="product-action ghost"
             type="button"
@@ -40,4 +42,3 @@ export default function ProductCard({ product }) {
     </article>
   );
 }
-
