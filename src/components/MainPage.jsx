@@ -22,7 +22,6 @@ export default function MainPage() {
       {
         id: "home-decor",
         className: "home-decor",
-        disabled: true,
       },
       { id: "jewelry", className: "jewelry", disabled: true },
       { id: "accessories", className: "accessories" },
@@ -177,7 +176,7 @@ export default function MainPage() {
           <button
             type="button"
             className="menu-btn"
-            aria-label="Menu"
+            aria-label={t("menu.title")}
             aria-expanded={menuOpen}
             onClick={() => setMenuOpen((open) => !open)}
           >
@@ -208,6 +207,17 @@ export default function MainPage() {
             aria-label="Mobile menu"
             onClick={(event) => event.stopPropagation()}
           >
+            <div className="mobile-menu-header">
+              <span className="mobile-menu-title">{t("menu.title")}</span>
+              <button
+                type="button"
+                className="mobile-menu-close"
+                aria-label={t("menu.close")}
+                onClick={() => setMenuOpen(false)}
+              >
+                ×
+              </button>
+            </div>
             <a href="#" onClick={() => setMenuOpen(false)}>
               {t("nav.home")}
             </a>

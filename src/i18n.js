@@ -17,6 +17,10 @@ const translations = {
       about: "About",
       contact: "Contact",
     },
+    menu: {
+      title: "Menu",
+      close: "Close menu",
+    },
     hero: {
       subtitle: "Unique laser-cut gifts created for meaningful moments.",
     },
@@ -114,6 +118,10 @@ const translations = {
       order: "Ordina",
       about: "Chi siamo",
       contact: "Contatti",
+    },
+    menu: {
+      title: "Menu",
+      close: "Chiudi menu",
     },
     hero: {
       subtitle: "Regali artigianali realizzati per momenti speciali",

@@ -1,42 +1,11 @@
 [
   {
-    "id": "home-01",
+    "id": "HD1",
     "categoryId": "home-decor",
-    "name": "Sunset Wall Shelf",
-    "price": "$46",
-    "code": "Vk1",
-    "woodType": "Oak",
-    "size": "14 in",
-    "finish": "Oil",
-    "imagePath": "Vk1.jpg",
-    "details": {
-      "description": ""
-    }
-  },
-  {
-    "id": "home-02",
-    "categoryId": "home-decor",
-    "name": "Modern Arch Tray",
-    "price": "$38",
-    "code": "Vk1",
-    "woodType": "Ash",
-    "size": "12 in",
-    "finish": "Matte",
-    "imagePath": "Vk1.jpg",
-    "details": {
-      "description": ""
-    }
-  },
-  {
-    "id": "home-03",
-    "categoryId": "home-decor",
-    "name": "Sculpted Candle Base",
-    "price": "$34",
-    "code": "Vk1",
-    "woodType": "Beech",
-    "size": "8 in",
-    "finish": "Satin",
-    "imagePath": "Vk1.jpg",
+    "name": "Tissues box",
+    "price": "6",
+    "code": "HD1",
+    "imagePath": "Homedecor/HD1.jpg",
     "details": {
       "description": ""
     }
