@@ -34,9 +34,9 @@ export default function ContactPage() {
           <div className="contact-item">
             <a
               className="contact-link"
-              href="https://www.instagram.com/gift.for.you.26?igsh=MTY5cTF0Y3llOXhjdQ=="
+              href="https://www.instagram.com/gift.for.you.26/"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               {t("contact.instagram")}
             </a>
@@ -46,4 +46,3 @@ export default function ContactPage() {
     </section>
   );
 }
-

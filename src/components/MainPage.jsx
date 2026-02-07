@@ -214,9 +214,9 @@ export default function MainPage() {
             <span className="bottom-separator" aria-hidden="true" />
             <a
               className="bottom-link"
-              href="https://www.instagram.com/gift.for.you.26?igsh=MTY5cTF0Y3llOXhjdQ=="
+              href="https://www.instagram.com/gift.for.you.26/"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               {t("contact.instagram")}
             </a>
