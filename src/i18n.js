@@ -116,7 +116,7 @@ const translations = {
       contact: "Contatti",
     },
     hero: {
-      subtitle: "Regali unici tagliati al laser per momenti speciali.",
+      subtitle: "Regali artigianali realizzati per momenti speciali",
     },
     categories: {
       title: "Acquista per categoria",
