@@ -158,7 +158,13 @@
   .product-price {
     padding: 4px 8px;
     font-size: 0.9rem;
-    transform: translateY(10px);
+    transform: translateY(30px);
+  }
+
+  .product-action {
+    padding: 8px 10px;
+    font-size: 0.8rem;
+    line-height: 1.2;
   }
 }
 
