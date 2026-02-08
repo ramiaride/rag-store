@@ -93,7 +93,12 @@
     flex-direction: column;
   }
 
+  .order-content {
+    order: 1;
+  }
+
   .order-media {
+    order: 2;
     width: 100%;
     min-height: 32vh;
   }

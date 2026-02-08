@@ -81,7 +81,12 @@
     flex-direction: column;
   }
 
+  .about-content {
+    order: 1;
+  }
+
   .about-media {
+    order: 2;
     width: 100%;
     min-height: 32vh;
   }
