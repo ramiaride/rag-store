@@ -33,7 +33,7 @@ export default function MainPage() {
         disabled: true,
       },
       { id: "kitchen", className: "kitchen", disabled: true },
-      { id: "coffee", className: "coffee", disabled: true },
+      { id: "coffee", className: "coffee" },
       { id: "kids", className: "kids" },
       { id: "lights", className: "lights" },
       { id: "family", className: "family", disabled: true },

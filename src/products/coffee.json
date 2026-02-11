@@ -1,14 +1,121 @@
 [
   {
-    "id": "cof-01",
+    "id": "Cd1",
     "categoryId": "coffee",
-    "name": "Barista Brew Caddy",
-    "price": "$26",
-    "code": "Vk1",
-    "woodType": "Walnut",
-    "size": "6 in",
-    "finish": "Satin",
-    "imagePath": "Vk1.jpg",
+    "name": "Coffee signs",
+    "price": "€7.00",
+    "code": "Cd1",
+    "imagePath": "Coffee/Cd1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Cd2",
+    "categoryId": "coffee",
+    "name": "Coffee wall art",
+    "price": "€8.00",
+    "code": "Cd2",
+    "imagePath": "Coffee/Cd2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Cki1",
+    "categoryId": "coffee",
+    "name": "Coffee coasters",
+    "price": "€3.00",
+    "code": "Cki1",
+    "imagePath": "Coffee/Cki1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc1",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.00",
+    "code": "Ckc1",
+    "imagePath": "Coffee/Ckc1.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc2",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc2",
+    "imagePath": "Coffee/Ckc2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc3",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc3",
+    "imagePath": "Coffee/Ckc3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc4",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc4",
+    "imagePath": "Coffee/Ckc4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc5",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc5",
+    "imagePath": "Coffee/Ckc5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc6",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc6",
+    "imagePath": "Coffee/Ckc6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc7",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc7",
+    "imagePath": "Coffee/Ckc7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "Ckc8",
+    "categoryId": "coffee",
+    "name": "Coffee keychain",
+    "price": "€4.50",
+    "code": "Ckc8",
+    "imagePath": "Coffee/Ckc8.jpg",
     "details": {
       "description": ""
     }

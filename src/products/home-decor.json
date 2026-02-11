@@ -3,7 +3,7 @@
     "id": "HD1",
     "categoryId": "home-decor",
     "name": "Tissues box",
-    "price": "6",
+    "price": "€6",
     "code": "HD1",
     "imagePath": "Homedecor/HD1.jpg",
     "details": {
@@ -14,7 +14,7 @@
     "id": "HD2",
     "categoryId": "home-decor",
     "name": "Welcome sign",
-    "price": "10",
+    "price": "€10",
     "code": "HD2",
     "imagePath": "Homedecor/HD2.jpg",
     "details": {
@@ -25,7 +25,7 @@
     "id": "HD3",
     "categoryId": "home-decor",
     "name": "Napkin holder ",
-    "price": "6",
+    "price": "€6",
     "code": "HD3",
     "imagePath": "Homedecor/HD3.jpg",
     "details": {
@@ -36,7 +36,7 @@
     "id": "HD4",
     "categoryId": "home-decor",
     "name": "Small decoration guitar ",
-    "price": "6",
+    "price": "€6",
     "code": "HD4",
     "imagePath": "Homedecor/HD4.jpg",
     "details": {
@@ -47,7 +47,7 @@
     "id": "HD5",
     "categoryId": "home-decor",
     "name": "Small decoration guitar  ",
-    "price": "6",
+    "price": "€6",
     "code": "HD5",
     "imagePath": "Homedecor/HD5.jpg",
     "details": {
@@ -58,7 +58,7 @@
     "id": "HD6",
     "categoryId": "home-decor",
     "name": "Perpetual Calendar",
-    "price": "12",
+    "price": "€12",
     "code": "HD6",
     "imagePath": "Homedecor/HD6.jpg",
     "details": {
@@ -69,7 +69,7 @@
     "id": "HD7",
     "categoryId": "home-decor",
     "name": "Planter cover",
-    "price": "15",
+    "price": "€15",
     "code": "HD7",
     "imagePath": "Homedecor/HD7.jpg",
     "details": {
