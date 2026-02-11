@@ -1,28 +1,88 @@
 [
   {
-    "id": "kit-01",
+    "id": "KIC1",
     "categoryId": "kitchen",
-    "name": "Engraved Cutting Board",
-    "price": "$40",
-    "code": "Vk1",
-    "woodType": "Maple",
-    "size": "12 in",
-    "finish": "Oil",
-    "imagePath": "Vk1.jpg",
+    "name": "Kitchen wall decor",
+    "price": "€8.00",
+    "code": "KIC1",
+    "imagePath": "Kitchen/KIC1.jpg",
     "details": {
       "description": ""
     }
   },
   {
-    "id": "kit-02",
+    "id": "KIC2",
     "categoryId": "kitchen",
-    "name": "Recipe Tablet Stand",
-    "price": "$34",
-    "code": "Vk1",
-    "woodType": "Oak",
-    "size": "10 in",
-    "finish": "Matte",
-    "imagePath": "Vk1.jpg",
+    "name": "Kitchen wall decor",
+    "price": "€8.00",
+    "code": "KIC2",
+    "imagePath": "Kitchen/KIC2.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "KIC3",
+    "categoryId": "kitchen",
+    "name": "Kitchen wall decor",
+    "price": "€8.00",
+    "code": "KIC3",
+    "imagePath": "Kitchen/KIC3.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "KIC4",
+    "categoryId": "kitchen",
+    "name": "Kitchen wall decor",
+    "price": "€8.00",
+    "code": "KIC4",
+    "imagePath": "Kitchen/KIC4.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "KIC5",
+    "categoryId": "kitchen",
+    "name": "Kitchen wall decor",
+    "price": "€8.00",
+    "code": "KIC5",
+    "imagePath": "Kitchen/KIC5.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "KIC6",
+    "categoryId": "kitchen",
+    "name": "Kitchen wall decor",
+    "price": "€8.00",
+    "code": "KIC6",
+    "imagePath": "Kitchen/KIC6.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "KIC7",
+    "categoryId": "kitchen",
+    "name": "Mandala coasters",
+    "price": "€12.00",
+    "code": "KIC7",
+    "imagePath": "Kitchen/kic7.jpg",
+    "details": {
+      "description": ""
+    }
+  },
+  {
+    "id": "KIC8",
+    "categoryId": "kitchen",
+    "name": "kitchen cutlery organizer",
+    "price": "€10.00",
+    "code": "KIC8",
+    "imagePath": "Kitchen/KIC8.jpg",
     "details": {
       "description": ""
     }

@@ -32,7 +32,7 @@ export default function MainPage() {
         className: "wall-art",
         disabled: true,
       },
-      { id: "kitchen", className: "kitchen", disabled: true },
+      { id: "kitchen", className: "kitchen" },
       { id: "coffee", className: "coffee" },
       { id: "kids", className: "kids" },
       { id: "lights", className: "lights" },
