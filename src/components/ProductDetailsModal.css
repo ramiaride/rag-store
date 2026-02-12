@@ -124,6 +124,7 @@
   font-family: "Space Grotesk", sans-serif;
   color: rgba(15, 23, 42, 0.78);
   line-height: 1.7;
+  white-space: pre-line;
 }
 
 .product-modal-footer {

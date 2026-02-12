@@ -3,220 +3,260 @@
     "id": "Ak1",
     "categoryId": "accessories",
     "name": "Cute halloween keychain",
+    "name_it": "Portachiavi Halloween carino",
     "price": "€4",
     "code": "Ak1",
     "imagePath": "Accessories/Ak1.jpg",
     "details": {
-      "description": ""
+      "description": "Cute engraved halloween designs on keychains\nMaterial: plywood\nSize: 6.5x6 cm\nItem quantity: 1",
+      "description_it": "Incisioni carine a tema Halloween su portachiavi\nMateriale: compensato\nDimensioni: 6.5x6 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak2",
     "categoryId": "accessories",
     "name": "Wolf keychain",
+    "name_it": "Portachiavi lupo",
     "price": "€4.5",
     "code": "Ak2",
     "imagePath": "Accessories/Ak2.jpg",
     "details": {
-      "description": ""
+      "description": "Two layers keychain with the engraved wolf figure\nMaterial: plywood\nSize: 6x7 cm\nItem quantity: 1",
+      "description_it": "Portachiavi a due strati con figura di lupo incisa\nMateriale: compensato\nDimensioni: 6x7 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak3",
     "categoryId": "accessories",
     "name": "Bear keychain",
+    "name_it": "Portachiavi orso",
     "price": "€4",
     "code": "Ak3",
     "imagePath": "Accessories/Ak3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut bear figure keychain\nMaterial: plywood\nSize: 5x6 cm\nItem quantity: 1",
+      "description_it": "Portachiavi con figura di orso tagliata al laser\nMateriale: compensato\nDimensioni: 5x6 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak4",
     "categoryId": "accessories",
     "name": "Turtle keychain",
+    "name_it": "Portachiavi tartaruga",
     "price": "€4",
     "code": "Ak4",
     "imagePath": "Accessories/Ak4.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut turtle figure keychain\nMaterial: plywood\nSize: 5x6 cm\nItem quantity: 1",
+      "description_it": "Portachiavi con figura di tartaruga tagliata al laser\nMateriale: compensato\nDimensioni: 5x6 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak5",
     "categoryId": "accessories",
     "name": "Dragonfly keychain",
+    "name_it": "Portachiavi libellula",
     "price": "€4",
     "code": "Ak5",
     "imagePath": "Accessories/Ak5.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut dragonfly figure keychain\nMaterial: plywood\nSize: 6x7 cm\nItem quantity: 1",
+      "description_it": "Portachiavi con figura di libellula tagliata al laser\nMateriale: compensato\nDimensioni: 6x7 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak6",
     "categoryId": "accessories",
     "name": "Highland cow keychain",
+    "name_it": "Portachiavi mucca Highland",
     "price": "€4",
     "code": "Ak6",
     "imagePath": "Accessories/Ak6.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut highland cow figure keychain\nMaterial: plywood\nSize: 7x7 cm\nItem quantity: 1",
+      "description_it": "Portachiavi con figura di mucca Highland tagliata al laser\nMateriale: compensato\nDimensioni: 7x7 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak7",
     "categoryId": "accessories",
     "name": "We fight together keychain",
+    "name_it": "Portachiavi \"Combattiamo insieme\"",
     "price": "€4",
     "code": "Ak7",
     "imagePath": "Accessories/Ak7.jpg",
     "details": {
-      "description": ""
+      "description": "Engraved and colored keychain for peace\nMaterial: plywood\nSize: 4x5 cm\nItem quantity: 1",
+      "description_it": "Portachiavi inciso e colorato per la pace\nMateriale: compensato\nDimensioni: 4x5 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Ak8",
     "categoryId": "accessories",
     "name": "Book lover keychain",
+    "name_it": "Portachiavi per amanti dei libri",
     "price": "€4",
     "code": "Ak8",
     "imagePath": "Accessories/Ak8.jpg",
     "details": {
-      "description": ""
+      "description": "Engraved keychain for book lovers\nMaterial: plywood\nSize: 6x6 cm\nItem quantity: 1",
+      "description_it": "Portachiavi inciso per amanti dei libri\nMateriale: compensato\nDimensioni: 6x6 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps1",
     "categoryId": "accessories",
     "name": "Ballerina phone stand",
+    "name_it": "Supporto telefono ballerina",
     "price": "€6",
     "code": "Aps1",
     "imagePath": "Accessories/Aps1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut phone stand in the shape of a ballerina, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 18x16x8 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser a forma di ballerina, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 18x16x8 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps2",
     "categoryId": "accessories",
     "name": "Dance phone stand",
+    "name_it": "Supporto telefono danza",
     "price": "€6",
     "code": "Aps2",
     "imagePath": "Accessories/Aps2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut phone stand in the shape of a ballerina, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 16.5x16x8 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser a forma di ballerina, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 16.5x16x8 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps3",
     "categoryId": "accessories",
     "name": "Fighter phone stand",
+    "name_it": "Supporto telefono combattente",
     "price": "€6",
     "code": "Aps3",
     "imagePath": "Accessories/Aps3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut phone stand in the shape of a fighter, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 20x21x8 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser a forma di combattente, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 20x21x8 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps4",
     "categoryId": "accessories",
     "name": "Cute animals phone stand",
+    "name_it": "Supporto telefono animaletti",
     "price": "€6",
     "code": "Aps4",
     "imagePath": "Accessories/Aps4.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved phone stand in shapes of cute animals, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 15x7 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser e inciso a forma di simpatici animali, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 15x7 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps5",
     "categoryId": "accessories",
     "name": "Cute horse phone stand",
+    "name_it": "Supporto telefono cavallino",
     "price": "€6",
     "code": "Aps5",
     "imagePath": "Accessories/Aps5.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved phone stand in the shape of a cute horse, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 15x7 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser e inciso a forma di un cavallino, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 15x7 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps6",
     "categoryId": "accessories",
     "name": "Cute beaver phone stand",
+    "name_it": "Supporto telefono castoro",
     "price": "€6",
     "code": "Aps6",
     "imagePath": "Accessories/Aps6.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved phone stand in the shape of a cute beaver, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 16x7 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser e inciso a forma di un castoro, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 16x7 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps7",
     "categoryId": "accessories",
     "name": "Flowers phone stand",
+    "name_it": "Supporto telefono fiori",
     "price": "€6",
     "code": "Aps7",
     "imagePath": "Accessories/Aps7.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved phone stand in the shape of flowers, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 18x9 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser e inciso a forma di fiori, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 18x9 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Aps8",
     "categoryId": "accessories",
     "name": "Halloween phone stand",
+    "name_it": "Supporto telefono Halloween",
     "price": "€6",
     "code": "Aps8",
     "imagePath": "Accessories/Aps8.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved phone stand in the shape of a Halloween theme, two pieces to be put together manually (not glued)\nMaterial: plywood\nSize: 21x9 cm\nItem quantity: 1",
+      "description_it": "Supporto per telefono tagliato al laser e inciso a tema Halloween, due pezzi da assemblare manualmente (non incollati)\nMateriale: compensato\nDimensioni: 21x9 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Agh1",
     "categoryId": "accessories",
     "name": "Cute dog glasses holder",
+    "name_it": "Porta occhiali cane carino",
     "price": "€7",
     "code": "Agh1",
     "imagePath": "Accessories/Agh1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved glasses holder in the shape of a cute dog\nMaterial: plywood\nSize: 8x14.5x4.5 cm\nItem quantity: 1",
+      "description_it": "Porta occhiali tagliato al laser e inciso a forma di un cagnolino\nMateriale: compensato\nDimensioni: 8x14.5x4.5 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Agh2",
     "categoryId": "accessories",
     "name": "Cute penguin glasses holder",
+    "name_it": "Porta occhiali pinguino carino",
     "price": "€7",
     "code": "Agh2",
     "imagePath": "Accessories/Agh2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved glasses holder in the shape of a cute penguin\nMaterial: plywood\nSize: 8x14.5x4.5 cm\nItem quantity: 1",
+      "description_it": "Porta occhiali tagliato al laser e inciso a forma di un pinguino\nMateriale: compensato\nDimensioni: 8x14.5x4.5 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Agh3",
     "categoryId": "accessories",
     "name": "Cute bear glasses holder",
+    "name_it": "Porta occhiali orso carino",
     "price": "€7",
     "code": "Agh3",
     "imagePath": "Accessories/Agh3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved glasses holder in the shape of a cute bear\nMaterial: plywood\nSize: 8x14.5x4.5 cm\nItem quantity: 1",
+      "description_it": "Porta occhiali tagliato al laser e inciso a forma di un orsetto\nMateriale: compensato\nDimensioni: 8x14.5x4.5 cm\nQuantità articolo: 1"
     }
   },
   {
     "id": "Agh4",
     "categoryId": "accessories",
     "name": "Cute mouse glasses holder",
+    "name_it": "Porta occhiali topolino carino",
     "price": "€7",
     "code": "Agh4",
     "imagePath": "Accessories/Agh4.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved glasses holder in the shape of a cute mouse\nMaterial: plywood\nSize: 8x14.5x4.5 cm\nItem quantity: 1",
+      "description_it": "Porta occhiali tagliato al laser e inciso a forma di un topolino\nMateriale: compensato\nDimensioni: 8x14.5x4.5 cm\nQuantità articolo: 1"
     }
   }
 ]

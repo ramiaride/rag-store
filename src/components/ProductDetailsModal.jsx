@@ -4,7 +4,7 @@ import "./ProductDetailsModal.css";
 import { useI18n } from "../i18n";
 
 export default function ProductDetailsModal({ product, open, onClose }) {
-  const { t } = useI18n();
+  const { lang, t } = useI18n();
 
   useEffect(() => {
     if (!open) return;
@@ -26,8 +26,12 @@ export default function ProductDetailsModal({ product, open, onClose }) {
 
   if (!open) return null;
 
-  const description = product?.details?.description?.trim()
-    ? product.details.description.trim()
+  const localizedDescription =
+    lang === "it" ? product?.details?.description_it : null;
+  const rawDescription = localizedDescription ?? product?.details?.description;
+
+  const description = rawDescription?.trim()
+    ? rawDescription.trim()
     : t("product.missingDescription");
 
   const name = product?.name ?? t("product.fallbackName");
@@ -62,13 +66,13 @@ export default function ProductDetailsModal({ product, open, onClose }) {
               className="product-modal-image"
               style={{ backgroundImage: product?.image }}
               role="img"
-              aria-label={product?.name}
+              aria-label={name}
             />
           </div>
 
           <div className="product-modal-content">
             <div className="product-modal-header">
-              <h2 className="product-modal-title">{product?.name}</h2>
+              <h2 className="product-modal-title">{name}</h2>
             </div>
 
             <p className="product-modal-code">
@@ -85,4 +89,3 @@ export default function ProductDetailsModal({ product, open, onClose }) {
     document.body,
   );
 }
-
