@@ -7,7 +7,8 @@
     "code": "Vk1",
     "imagePath": "Vk1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine keychain\nMaterial: plywood\nSize: 5x4 cm\nPieces: 1",
+      "description_it": "Portachiavi di San Valentino tagliato al laser\nMateriale: compensato\nDimensioni: 5x4 cm\nPezzi: 1"
     }
   },
   {
@@ -18,29 +19,32 @@
     "code": "Vk2",
     "imagePath": "Vk2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut holding hands keychain\nMaterial: plywood\nSize: 5x5 cm\nPieces: 1",
+      "description_it": "Portachiavi con mani che si tengono tagliato al laser\nMateriale: compensato\nDimensioni: 5x5 cm\nPezzi: 1"
     }
   },
   {
     "id": "Vk3",
     "categoryId": "valentine",
-    "name": "Cute couple keychain",
-    "price": "€4",
+    "name": "Cute couple double keychains",
+    "price": "€5",
     "code": "Vk3",
     "imagePath": "Vk3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut cute couple double keychains\nMaterial: plywood\nSize: 3.5x4 cm\nPieces: 2",
+      "description_it": "Doppio portachiavi con coppia carina tagliato al laser\nMateriale: compensato\nDimensioni: 3.5x4 cm\nPezzi: 2"
     }
   },
   {
     "id": "Vj1",
     "categoryId": "valentine",
     "name": "Double heart earrings",
-    "price": "€4",
+    "price": "€5",
     "code": "Vj1",
     "imagePath": "Vj1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut heart earrings\nMaterial: plywood\nSize: 5x4.5 cm\nPieces: 2",
+      "description_it": "Orecchini a cuore tagliati al laser\nMateriale: compensato\nDimensioni: 5x4.5 cm\nPezzi: 2"
     }
   },
   {
@@ -51,7 +55,8 @@
     "code": "Vj2",
     "imagePath": "Vj2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut rose earrings\nMaterial: plywood\nSize: 5x3 cm\nPieces: 2",
+      "description_it": "Orecchini a rosa tagliati al laser\nMateriale: compensato\nDimensioni: 5x3 cm\nPezzi: 2"
     }
   },
   {
@@ -62,7 +67,8 @@
     "code": "Vj3",
     "imagePath": "Vj3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut engraved love earrings\nMaterial: plywood\nSize: 4x3 cm\nPieces: 2",
+      "description_it": "Orecchini \"love\" incisi e tagliati al laser\nMateriale: compensato\nDimensioni: 4x3 cm\nPezzi: 2"
     }
   },
   {
@@ -73,7 +79,8 @@
     "code": "Vl1",
     "imagePath": "Vi1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut multi heart candle holder\nMaterial: plywood\nSize: 10x11.5x12.5 cm\nPieces: 1",
+      "description_it": "Portacandela multi-cuore tagliato al laser\nMateriale: compensato\nDimensioni: 10x11.5x12.5 cm\nPezzi: 1"
     }
   },
   {
@@ -84,7 +91,8 @@
     "code": "Vl2",
     "imagePath": "Vi2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine camping candle holder\nMaterial: plywood\nSize: 13.5x13.5x10 cm\nPieces: 1",
+      "description_it": "Portacandela stile camping di San Valentino tagliato al laser\nMateriale: compensato\nDimensioni: 13.5x13.5x10 cm\nPezzi: 1"
     }
   },
   {
@@ -95,7 +103,8 @@
     "code": "Vl3",
     "imagePath": "Vl3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut candle holder with 3 designs\nMaterial: plywood\nSize: 12x9x2.5 cm\nPieces: 3",
+      "description_it": "Portacandela tagliato al laser con 3 design\nMateriale: compensato\nDimensioni: 12x9x2.5 cm\nPezzi: 3"
     }
   },
   {
@@ -106,18 +115,20 @@
     "code": "Vpf1",
     "imagePath": "Vpf1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut love photo frame\nMaterial: plywood\nSize: 12x6.5x3.5 cm\nPieces: 1",
+      "description_it": "Portafoto \"love\" tagliato al laser\nMateriale: compensato\nDimensioni: 12x6.5x3.5 cm\nPezzi: 1"
     }
   },
   {
     "id": "Vpf2",
     "categoryId": "valentine",
     "name": "Love tree photo frame",
-    "price": "€8",
+    "price": "€9",
     "code": "Vpf2",
     "imagePath": "Vpf2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut love tree photo frame\nMaterial: plywood\nSize: 28x20.5x5 cm\nPieces: 1",
+      "description_it": "Portafoto albero dell'amore tagliato al laser\nMateriale: compensato\nDimensioni: 28x20.5x5 cm\nPezzi: 1"
     }
   },
   {
@@ -128,18 +139,20 @@
     "code": "Vpf3",
     "imagePath": "Vpf3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut reasons for love photo puzzle frame\nMaterial: plywood\nSize: 21x18 cm\nPieces: 1",
+      "description_it": "Portafoto puzzle \"reasons for love\" tagliato al laser\nMateriale: compensato\nDimensioni: 21x18 cm\nPezzi: 1"
     }
   },
   {
     "id": "Vd1",
     "categoryId": "valentine",
     "name": "Art deco valentine rose",
-    "price": "€7",
+    "price": "€8",
     "code": "Vd1",
     "imagePath": "Vd1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut art deco valentine rose\nMaterial: plywood\nSize: 15.5x6x14 cm\nPieces: 1",
+      "description_it": "Rosa di San Valentino Art Déco tagliata al laser\nMateriale: compensato\nDimensioni: 15.5x6x14 cm\nPezzi: 1"
     }
   },
   {
@@ -150,7 +163,8 @@
     "code": "Vd2",
     "imagePath": "Vd2.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine's day plaque\nMaterial: plywood\nSize: 17x11 cm\nPieces: 1",
+      "description_it": "Targa di San Valentino tagliata al laser\nMateriale: compensato\nDimensioni: 17x11 cm\nPezzi: 1"
     }
   },
   {
@@ -161,7 +175,8 @@
     "code": "Vd3",
     "imagePath": "Vd3.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine's day plaque\nMaterial: plywood\nSize: 17x11 cm\nPieces: 1",
+      "description_it": "Targa di San Valentino tagliata al laser\nMateriale: compensato\nDimensioni: 17x11 cm\nPezzi: 1"
     }
   },
   {
@@ -172,7 +187,8 @@
     "code": "Vd4",
     "imagePath": "Vd4.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine's day plaque\nMaterial: plywood\nSize: 17x11 cm\nPieces: 1",
+      "description_it": "Targa di San Valentino tagliata al laser\nMateriale: compensato\nDimensioni: 17x11 cm\nPezzi: 1"
     }
   },
   {
@@ -183,7 +199,8 @@
     "code": "Vd5",
     "imagePath": "Vd5.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut personalized love sign\nMaterial: plywood\nSize: 18.5x17x7 cm\nPieces: 1",
+      "description_it": "Insegna \"love\" personalizzata tagliata al laser\nMateriale: compensato\nDimensioni: 18.5x17x7 cm\nPezzi: 1"
     }
   },
   {
@@ -194,7 +211,8 @@
     "code": "Vd6",
     "imagePath": "Vd6.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut heart love sign\nMaterial: plywood\nSize: 24.5x20.5x6 cm\nPieces: 1",
+      "description_it": "Insegna \"love\" a cuore tagliata al laser\nMateriale: compensato\nDimensioni: 24.5x20.5x6 cm\nPezzi: 1"
     }
   },
   {
@@ -205,7 +223,8 @@
     "code": "Vd7",
     "imagePath": "Vd7.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine robots\nMaterial: plywood\nSize: 13.5x14.5x3 cm\nPieces: 1",
+      "description_it": "Robot di San Valentino tagliati al laser\nMateriale: compensato\nDimensioni: 13.5x14.5x3 cm\nPezzi: 1"
     }
   },
   {
@@ -216,7 +235,8 @@
     "code": "Vd8",
     "imagePath": "Vd8.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut personalized couple sign\nMaterial: plywood\nSize: 22x22x4 cm\nPieces: 1",
+      "description_it": "Insegna di coppia personalizzata tagliata al laser\nMateriale: compensato\nDimensioni: 22x22x4 cm\nPezzi: 1"
     }
   },
   {
@@ -227,7 +247,8 @@
     "code": "Vd9",
     "imagePath": "Vd9.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut valentine tree couple\nMaterial: plywood\nSize: 10x8x3 cm\nPieces: 1",
+      "description_it": "Coppia con albero di San Valentino tagliata al laser\nMateriale: compensato\nDimensioni: 10x8x3 cm\nPezzi: 1"
     }
   },
   {
@@ -238,7 +259,9 @@
     "code": "Va1",
     "imagePath": "Va1.jpg",
     "details": {
-      "description": ""
+      "description": "Laser cut and engraved couple phone stand\nMaterial: plywood\nSize: 17x8 cm\nPieces: 1",
+      "description_it": "Supporto telefono di coppia tagliato al laser e inciso\nMateriale: compensato\nDimensioni: 17x8 cm\nPezzi: 1"
     }
   }
 ]
+

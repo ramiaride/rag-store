@@ -34,6 +34,10 @@ export default function ProductDetailsModal({ product, open, onClose }) {
     ? rawDescription.trim()
     : t("product.missingDescription");
 
+  const displayDescription = description
+    .replace(/\bItem quantity\s*:\s*/gi, "Pieces: ")
+    .replace(/\bQuantità articolo\s*:\s*/gi, "Pezzi: ");
+
   const name = product?.name ?? t("product.fallbackName");
 
   return createPortal(
@@ -78,7 +82,7 @@ export default function ProductDetailsModal({ product, open, onClose }) {
             <p className="product-modal-code">
               {t("product.code")}: {product?.code}
             </p>
-            <p className="product-modal-description">{description}</p>
+            <p className="product-modal-description">{displayDescription}</p>
             <div className="product-modal-footer">
               <span className="product-modal-price">{product?.price}</span>
             </div>
